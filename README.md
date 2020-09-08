@@ -13,3 +13,5 @@
 * `git status`
 * `git push`
 * `git branch`
+* `git config --global user.name`
+* `git config --global user.email`
